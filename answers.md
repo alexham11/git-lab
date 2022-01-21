@@ -41,4 +41,44 @@ Answer 8: commit 7f4e5ed408607b1acbed4a0be8fdc7e55f6edae8 (HEAD -> master)
 Author: Alex Hamilton <ah976818@ohio.edu>
 Date:   Fri Jan 21 14:23:57 2022 -0500
 
-Answer 9: 
+Answer 9: On branch main
+nothing to commit, working tree clean
+
+Answer 10: commit 7f4e5ed408607b1acbed4a0be8fdc7e55f6edae8 (HEAD -> main)
+Author: Alex Hamilton <ah976818@ohio.edu>
+Date:   Fri Jan 21 14:23:57 2022 -0500
+
+    Initial commit
+
+diff --git a/README.md b/README.md
+new file mode 100644
+index 0000000..4ebca57
+--- /dev/null
++++ b/README.md
+@@ -0,0 +1,2 @@
++Alexander Hamilton
++alexham11
+Changes made to the online document were not saved within the local save.
+
+Answer 11: fatal: The current branch main has no upstream branch.
+To push the current branch and set the remote as upstream, use
+
+    git push --set-upstream origin main
+
+Answer 12: commit 7f4e5ed408607b1acbed4a0be8fdc7e55f6edae8 (HEAD -> main)
+Author: Alex Hamilton <ah976818@ohio.edu>
+Date:   Fri Jan 21 14:23:57 2022 -0500
+
+    Initial commit
+
+diff --git a/README.md b/README.md
+new file mode 100644
+index 0000000..4ebca57
+--- /dev/null
++++ b/README.md
+@@ -0,0 +1,2 @@
++Alexander Hamilton
++alexham11
+
+
+Answer 13: .  ..  git-lab	git-lab-2  Labs
